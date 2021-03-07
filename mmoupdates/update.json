@@ -33,7 +33,8 @@
       "Size": 23642
     },
     {
-      "Path": "resources/config.json"
+      "Path": "resources/config.json",
+	  "Size": 449
     },
     {
       "Path": "resources/credits.json",
