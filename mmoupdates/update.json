@@ -34,7 +34,8 @@
     },
     {
       "Path": "resources/config.json",
-      "Size": 449
+      "Hash": "8e617fa7e41ff3c62b89a90af021be21",
+      "Size": 462
     },
     {
       "Path": "resources/credits.json",
